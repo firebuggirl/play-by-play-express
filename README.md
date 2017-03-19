@@ -1,8 +1,9 @@
-This project is a result of my following along with the Play by Play Course offered via Pluralsight:
+This project is a result of my following along with the Play by Play Course offered via Pluralsight with Sam Artioli:
 
-Course description:
 
-Play by Play is a series where we sit down with an expert to work on a solution in real time. It's unscripted and unrehearsed. In this course, NodeJS expert Sam Artioli builds a web app from scratch. You'll learn how to set up a Node app, build a web API with Express, integrate with MongoDB, and cache HTTP results with Redis. You'll also learn some expert techniques, such as offloading and proxying requests to multiple Node servers, organizing API routes, and avoiding blocking process and taking advantage of Node's event loop. Exercise files for the course are located at https://github.com/samartioli/node-web-api.
+Tasks:
+-set up a Node app, build a web API with Express, integrate with MongoDB, and cache HTTP results with Redis.
+-learn about offloading and proxying requests to multiple Node servers, organizing API routes, and avoiding blocking process and taking advantage of Node's event loop.
 
 Notes:
 
